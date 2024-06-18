@@ -14,7 +14,7 @@ To be completed.
 ## File overview:
 - `README.md` - this readme file.<br>
 - `MNIST` - the workspace folder for `LeNet` on MNIST.<br>
-- `CIFAR10` - the workspace folder for VGG-Net on CIFAR10.<br>
+- `CIFAR10` - the workspace folder for `VGG-Net` on CIFAR10.<br>
 
 ## Requirements
 ### **Dependencies and Libraries**:
